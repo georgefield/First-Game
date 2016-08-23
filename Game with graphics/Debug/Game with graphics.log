@@ -1,0 +1,6 @@
+﻿  GLSLProgram.cpp
+e:\george field\documents\visual studio 2015\projects\game with graphics\game with graphics\glslprogram.cpp(54): warning C4129: 'l': unrecognized character escape sequence
+e:\george field\documents\visual studio 2015\projects\game with graphics\game with graphics\glslprogram.cpp(67): warning C4018: '<': signed/unsigned mismatch
+e:\george field\documents\visual studio 2015\projects\game with graphics\game with graphics\glslprogram.cpp(76): warning C4018: '<': signed/unsigned mismatch
+  Game with graphics.vcxproj -> E:\George Field\Documents\Visual Studio 2015\Projects\Game with graphics\Debug\Game with graphics.exe
+  Game with graphics.vcxproj -> E:\George Field\Documents\Visual Studio 2015\Projects\Game with graphics\Debug\Game with graphics.pdb (Full PDB)
